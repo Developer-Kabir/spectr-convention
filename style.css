@@ -26,3 +26,10 @@ footer{
     background-color: #0b0d17;
     padding: 50px 100px;
 }
+.card-title{
+   text-align: center;
+   font-size: 25px;
+}
+.card-text{
+    text-align: center;
+}
