@@ -10,8 +10,11 @@ body {
     margin: 0px;
     padding: 0px;
 }
-h1{
-    font-size: 60px;
+.carousel-caption h1{
+    font-size: 4vw;
+}
+.carousel-caption p{
+font-size: 2vw;
 }
 .slider-text{
     font-size: 20px;
@@ -34,14 +37,14 @@ footer{
     text-align: center;
 }
 
-
-
 .list-group-flush>.list-group-item {
     border-width: 0 0 1px;
 }
+
 .list-group-item+.list-group-item {
     border-top-width: 0;
 }
+
 .list-group-item {
     border: none;
 }
@@ -60,6 +63,7 @@ footer{
     border: 1px solid white;
     border-radius: 20px;
 }
+
 .hot-offer{
     margin-top: -25px;
     padding: 0px 10px;
