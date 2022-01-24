@@ -1,0 +1,7 @@
+body {
+    @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins&family=Roboto+Mono&display=swap');
+    font-family: 'PT Serif', serif;
+    background-color: #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+}
