@@ -33,3 +33,48 @@ footer{
 .card-text{
     text-align: center;
 }
+
+
+element.style {
+}
+.list-group-flush>.list-group-item {
+    border-width: 0 0 1px;
+}
+.list-group-item+.list-group-item {
+    border-top-width: 0;
+}
+.list-group-item {
+    border: none;
+}
+
+.chose-plan{
+    background-color:gray;
+    padding: 10px 30px;
+    border: 1px solid white;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 700px;
+    font-family: 'PT Serif', serif;
+}
+
+.package-card{
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.hot-offer{
+    margin-top: -25px;
+    padding: 0px 10px;
+    background-color: black;
+    color: white;
+}
+
+.hot-offer ul li {
+    background-color: black;
+    color: white;
+}
+
+.discount{
+    margin-top: -35px;
+    font-size: 20px;
+}
+
